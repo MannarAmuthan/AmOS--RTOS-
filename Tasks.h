@@ -118,6 +118,7 @@ void AmOs_Switch(){
 		}
 }
 
+///// just for debugging in arduino
 void printing(){
 	holder=headList;
 	while(1){
